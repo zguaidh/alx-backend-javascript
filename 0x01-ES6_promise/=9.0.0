@@ -1,0 +1,7 @@
++ ts-node@10.9.2
++ @typescript-eslint/utils@7.17.0
++ node-notifier@8.0.2
++ babel-plugin-macros@3.1.0
+updated 4 packages and audited 764 packages in 10.993s
+found 0 vulnerabilities
+
