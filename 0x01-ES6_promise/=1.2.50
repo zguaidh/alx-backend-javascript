@@ -1,9 +1,0 @@
-
-> @swc/core@1.7.1 postinstall /home/habib/alx-backend-javascript/0x01-ES6_promise/node_modules/@swc/core
-> node postinstall.js
-
-+ @swc/core@1.7.1
-+ @swc/wasm@1.7.1
-added 6 packages from 1 contributor and audited 764 packages in 159.52s
-found 0 vulnerabilities
-
