@@ -1,6 +1,3 @@
-/* eslint-disable no-unused-vars */
-/* eslint-disable */
-
 import getBudgetObject from "./7-getBudgetObject";
 
 export default function getFullBudgetObject(income, gdp, capita) {
@@ -8,10 +5,10 @@ export default function getFullBudgetObject(income, gdp, capita) {
     const fullBudget = {
       ...budget,
       getIncomeInDollars () {
-        return $${income};
+        return `$${income}`;
       },
       getIncomeInEuros () {
-        return ${income} euros;
+        return `${income} euros`;
       },
     };
   
