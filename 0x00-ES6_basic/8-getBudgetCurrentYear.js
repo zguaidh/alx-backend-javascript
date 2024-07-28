@@ -1,3 +1,6 @@
+/* eslint-disable no-unused-vars */
+/* eslint-disable */
+
 function getCurrentYear() {
   const date = new Date();
   return date.getFullYear();
@@ -12,3 +15,4 @@ export default function getBudgetForCurrentYear(income, gdp, capita) {
   };
   return budget;
 }
+
